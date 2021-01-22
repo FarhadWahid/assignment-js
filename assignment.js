@@ -1,4 +1,4 @@
-//github
+//githublink: https://github.com/FarhadWahid/assignment-js
 
 //kilometerToMeter/
 
